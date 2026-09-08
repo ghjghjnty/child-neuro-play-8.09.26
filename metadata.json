@@ -1,0 +1,7 @@
+{
+  "name": "Артёмка",
+  "description": "Детский медицинский аудиоплеер со светофором, фабулами .flac, БРТ .mp3, протоколом 120 минут и курсом 5/2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
